@@ -5,17 +5,3 @@ h1{
 #games{
   text-decoration: underline;
 }
-
-.card{
-  width: 300px;
-}
-
-img{
-  width: 250px;
-}
-
-@media and screen (max-width: 425px){
-  .card{
-    right: 100px;
-  }
-}
