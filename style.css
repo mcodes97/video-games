@@ -8,8 +8,6 @@ h1{
 
 @media (min-width: 425px){
   #all{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+    margin: 10px auto;
   }
 }
