@@ -5,3 +5,7 @@ h1{
 #games{
   text-decoration: underline;
 }
+
+img{
+  width: 250;
+}
