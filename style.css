@@ -7,7 +7,7 @@ h1{
 }
 
 @media (min-width: 425px){
-  #all{
-    margin: 10px auto;
+  card{
+    margin: 0 100px 0 0;
   }
 }
