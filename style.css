@@ -16,6 +16,6 @@ img{
 
 @media (min-width: 425px){
   .card{
-    margin: 0 100px 0 0;
+    right: 100px;
   }
 }
